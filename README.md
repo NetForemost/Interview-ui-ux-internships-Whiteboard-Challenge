@@ -1,6 +1,6 @@
 # Interview-ui-ux-internships-Witeboard-Challenge
 
-**Witheboard Challenge for Travel Planning App**
+**Witeboard Challenge for Travel Planning App**
 
 **Points that needs to be considered**
 
