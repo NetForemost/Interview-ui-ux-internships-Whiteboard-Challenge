@@ -15,10 +15,15 @@ Remember, you can further customize and refine the description to align with the
 
 
 **Demographics:**
+
 Age: 25-45 years old (although this can vary)
+
 Gender: Both male and female
+
 Geographic location: Urban and suburban areas with access to travel destinations
+
 Education: Varies
+
 Color palette has not been decided yet. Build a solution that can adapt to a color palette later.
 
 
